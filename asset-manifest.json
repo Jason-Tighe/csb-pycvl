@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://slowdolphin.github.io/csb-pycvl/static/css/main.2a4ac049.chunk.css",
+    "main.js": "https://slowdolphin.github.io/csb-pycvl/static/js/main.cd2c7993.chunk.js",
+    "main.js.map": "https://slowdolphin.github.io/csb-pycvl/static/js/main.cd2c7993.chunk.js.map",
+    "runtime-main.js": "https://slowdolphin.github.io/csb-pycvl/static/js/runtime-main.c6172fde.js",
+    "runtime-main.js.map": "https://slowdolphin.github.io/csb-pycvl/static/js/runtime-main.c6172fde.js.map",
+    "static/js/2.aea5b8ec.chunk.js": "https://slowdolphin.github.io/csb-pycvl/static/js/2.aea5b8ec.chunk.js",
+    "static/js/2.aea5b8ec.chunk.js.map": "https://slowdolphin.github.io/csb-pycvl/static/js/2.aea5b8ec.chunk.js.map",
+    "index.html": "https://slowdolphin.github.io/csb-pycvl/index.html",
+    "static/css/main.2a4ac049.chunk.css.map": "https://slowdolphin.github.io/csb-pycvl/static/css/main.2a4ac049.chunk.css.map",
+    "static/js/2.aea5b8ec.chunk.js.LICENSE.txt": "https://slowdolphin.github.io/csb-pycvl/static/js/2.aea5b8ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6172fde.js",
+    "static/js/2.aea5b8ec.chunk.js",
+    "static/css/main.2a4ac049.chunk.css",
+    "static/js/main.cd2c7993.chunk.js"
+  ]
+}

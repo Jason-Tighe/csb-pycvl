@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAOA,iBACE,eAAiB,CACjB,YAAa,CACb,WACF","file":"main.2a4ac049.chunk.css","sourcesContent":["\n\n#container{\n  background: black;\n  height: 100vh;\n  width: 100vw;\n}\n#root{\n  background: black;\n  height: 100vh;\n  width: 100vw;\n}"]}
